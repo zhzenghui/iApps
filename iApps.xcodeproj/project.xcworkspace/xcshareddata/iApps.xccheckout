@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E35C55AB-B9E2-4DA0-B090-0A4796A8C991</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iApps</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>81255F77-68CA-4ADE-8539-D31EA1FF04F5</key>
+		<string>svn://192.168.1.113</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>code/iApps/iApps.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>81255F77-68CA-4ADE-8539-D31EA1FF04F5</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>81255F77-68CA-4ADE-8539-D31EA1FF04F5</key>
+		<string>svn://192.168.1.113</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.113/code/iApps/iApps.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>81255F77-68CA-4ADE-8539-D31EA1FF04F5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>81255F77-68CA-4ADE-8539-D31EA1FF04F5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>192.168.1.113</string>
+		</dict>
+	</array>
+</dict>
+</plist>
